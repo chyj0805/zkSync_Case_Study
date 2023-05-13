@@ -1,5 +1,5 @@
 # zkSync Case Study
-![zkSync](zkSync.png)
+![zkSync](./resource/zkSync.png)
 ## Overview and Origin
 Zksync is a layer 2 protocal that scales Ethereum's security and values through zero-knowledge cryptography powered by zkRollup technology, this project founded by Matter Labs intially strated at June in 2020 with this first product zkSync 1.0. From lastest series C round brings the total funding of 458 million. This includes a separate $200 million dedicated ecosystem fund, $50 million Series B led by a16z (crypto venture capital fund), and $8 million in Series A and Seed round. 
 
