@@ -1,17 +1,9 @@
 # zkSync Case Study
 ![zkSync](zkSync.png)
 ## Overview and Origin
+Zksync is a layer 2 protocal that scales Ethereum's security and values through zero-knowledge cryptography powered by zkRollup technology, this project founded by Matter Labs intially strated at June in 2020 with this first product zkSync 1.0. From lastest series C round brings the total funding of 458 million. This includes a separate $200 million dedicated ecosystem fund, $50 million Series B led by a16z (crypto venture capital fund), and $8 million in Series A and Seed round. 
 
-* What is the name of the company?
-
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
-
+Over the past couple years, the biggest pain point with Ethereum transaction has been gas fee. Those gas fees are not variable, if you try to send $2 worth of Ethereum or $1millions, you will be pay the same amount in gas fee which depending on the demaned of the network, it will be quite discouraging for people who just gets their hands on crptos for small transaction. Many different team have been working on scaling Etheremum capbility with layer 2 soultion zkSync is one of them.
 
 ## Business Activities
 
