@@ -1,0 +1,20 @@
+Matter Labs. (n.d.). Matter Labs. Retrieved from https://matter-labs.io/
+
+Gas price (in Gwei). (n.d.). Retrieved May 13, 2023, from https://etherscan.io/chart/gasprice
+
+Matter Labs. (n.d.). Awesome Zero-knowledge Proofs. Retrieved May 13, 2023, from https://github.com/matter-labs/awesome-zero-knowledge-proofs/#general-introduction
+
+Matter Labs. (2022, March 30). Announcing $200 Million in New Funding to Accelerate the zkSync Mission. Medium. https://blog.matter-labs.io/announcing-200-million-in-new-funding-to-accelerate-the-zksync-mission-a9d59c1583c8
+
+Matter Labs. (n.d.). zkSync - The missing link to a scalable and gas-efficient Ethereum. Retrieved May 13, 2023, from https://zksync.io/
+
+EtherScan. (n.d.). Ethereum Address Chart. Retrieved May 13, 2023, from https://etherscan.io/chart/address
+
+DeFi Llama. (n.d.). Ethereum Total Value Locked. Retrieved May 13, 2023, from https://defillama.com/chain/Ethereum?tvl=true
+
+Shimpi, A. (2021, May 6). Decentralized Finance (DeFi). Investopedia. Retrieved May 13, 2023, from https://www.investopedia.com/decentralized-finance-defi-5113835#toc-uses-of-defi
+
+Educative. (n.d.). What are smart contracts in a blockchain? Retrieved May 13, 2023, from https://www.educative.io/answers/what-are-smart-contracts-in-a-blockchain?utm_campaign=brand_educative&utm_source=google&utm_medium=ppc&utm_content=performance_max&eid=5082902844932096&utm_term=&utm_campaign=%5BNew%5D+Performance+Max&utm_source=adwords&utm_medium=ppc&hsa_acc=5451446008&hsa_cam=18511913007&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw6vyiBhB_EiwAQJRopqy_mNnAkopQr3f-0FovEsT91LVL6K-BSt5YRMXAu3-mgIdDWLuEDBoCxIUQAvD_BwE
+
+Matter Labs. (2022, January 12). A Year of Growth for zkSync. Retrieved May 13, 2023, from https://blog.matter-labs.io/a-year-of-growth-for-zksync-bb117d1b4f0c
+
