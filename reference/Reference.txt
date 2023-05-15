@@ -18,3 +18,10 @@ Educative. (n.d.). What are smart contracts in a blockchain? Retrieved May 13, 2
 
 Matter Labs. (2022, January 12). A Year of Growth for zkSync. Retrieved May 13, 2023, from https://blog.matter-labs.io/a-year-of-growth-for-zksync-bb117d1b4f0c
 
+zkSync Explorer. (n.d.). Retrieved May 13, 2023, from https://explorer.zksync.io/
+
+Arbiscan. (n.d.). Retrieved May 13, 2023, from https://arbiscan.io/
+
+DeFi Llama. (n.d.). Arbitrum TVL. Retrieved May 13, 2023, from https://defillama.com/chain/Arbitrum
+
+DeFi Llama. (n.d.). zkSync Era TVL. Retrieved May 13, 2023, from 
